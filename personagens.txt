@@ -1,4 +1,12 @@
 Avengers Ultimato
 
+<<<<<<< HEAD
 Black Widow
 Thor
+=======
+Iron Man
+Captain America
+
+Spider man
+Loki
+>>>>>>> elenco
